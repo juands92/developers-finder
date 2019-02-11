@@ -3,6 +3,7 @@
 
 1. Installation
    - Clone this repository on your local machine
+   - Run the command "rm -rf node_modules" to avoid conflicts with current modules
    - Run the command "npm install" in order to get all dependencies from package.json
    - Run the command "npm start" to deploy the application into your localhost
 
